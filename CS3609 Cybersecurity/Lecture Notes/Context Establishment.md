@@ -1,0 +1,1 @@
+> sets criteria for how risks are identified, risk ownership, how risks impact [[CIA Triad|CIA]], how risk impact and likelihood will be calculated

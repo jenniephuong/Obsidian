@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "bea962bdcea12849",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4191bbe4f4c52f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec96b8e8eae7a30e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advances in HCI/Marker-based AR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marker-based AR"
+            }
+          },
+          {
+            "id": "cffd14085e905691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advances in HCI/Paper Review/Sub Paper - MR for Medical Skills Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sub Paper - MR for Medical Skills Training"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff0c7354c967a98d",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ed07290a1278ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47aa6cb84d287f2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "11129e3b9b688d62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "haptic",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44815fb5f30b9132",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "56bc1d9a2939ea3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "54731bb81f2003de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2aac93d451145c24",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bugs, errors, and faults.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bugs, errors, and faults"
+            }
+          },
+          {
+            "id": "1323d78ea668665d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2dc99a5a2cb265bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e826eec56bb1a51c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "ec96b8e8eae7a30e",
+  "lastOpenFiles": [
+    "Advances in HCI/Markerless AR.md",
+    "Advances in HCI/Marker-based AR.md",
+    "Advances in HCI/Augmented Reality.md",
+    "Advances in HCI/Extended Reality.md",
+    "Advances in HCI/Mixed Reality.md",
+    "Assets/Pasted image 20250414104841.png",
+    "Advances in HCI/Virtual Reality.md",
+    "Advances in HCI/Virtual Environment.md",
+    "Advances in HCI/Advances in HCI.canvas",
+    "Advances in HCI/Paper Review/Sub Paper - Mobile Mixed Reality for Experiential Learning and Simulation in Medical and Health Sciences Education.md",
+    "Advances in HCI/Paper Review/Sub Paper - What is MR.md",
+    "Advances in HCI/Paper Review/Sub Paper - MR for Medical Skills Training.md",
+    "Advances in HCI/Evaluation.md",
+    "Advances in HCI/Paper Review/Key Paper - Digital Avatar Heads.md",
+    "Advances in HCI/Paper Review/Extra - 3 Axes of Improvement for Mass Adoption.md",
+    "Advances in HCI/Collision Detection.md",
+    "Advances in HCI/Device Calibration.md",
+    "Advances in HCI/App based AR.md",
+    "Advances in HCI/VisualSLAM.md",
+    "Advances in HCI/Web based AR.md",
+    "Assets/Pasted image 20250414162011.png",
+    "Assets/Pasted image 20250414160630.png",
+    "Advances in HCI/SLAM.md",
+    "Advances in HCI/Risk Matrix of MR.md",
+    "Advances in HCI/Rendering.md",
+    "Advances in HCI/Registration Error.md",
+    "Advances in HCI/Mapping Recognition.md",
+    "Advances in HCI/Pose Estimation.md",
+    "Assets/Pasted image 20250414151459.png",
+    "Advances in HCI/Interaction Models.md",
+    "Assets/Pasted image 20250414125248.png",
+    "Assets/Pasted image 20250414125231.png",
+    "Assets/Pasted image 20250414125156.png",
+    "Assets/Pasted image 20250414125109.png",
+    "Assets/Pasted image 20250414104643.png",
+    "Assets/Pasted image 20250310184153.png",
+    "Advances in AI/Advances in AI.canvas",
+    "Advances in HCI/Paper Review",
+    "Advances in AI/Paper Review",
+    "Advances in HCI",
+    "Advances in AI",
+    "Assets",
+    "Untitled 1.canvas",
+    "Cut",
+    "Admin",
+    "CS3002 Software Engineering",
+    "CS3609__Lecture1_BSpace_2024.25_NuraAbu.pdf",
+    "Secure_Systems.pdf"
+  ]
+}

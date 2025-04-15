@@ -1,0 +1,1 @@
+e.g. manufacturer wants to access data from another domain (health), exchange data

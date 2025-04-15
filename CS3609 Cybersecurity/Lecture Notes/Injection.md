@@ -1,0 +1,1 @@
+- allows an attacker to interfere with the queries that an application makes to its database.

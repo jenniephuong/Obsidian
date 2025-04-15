@@ -1,0 +1,1 @@
+allows logging in once to access multiple platforms

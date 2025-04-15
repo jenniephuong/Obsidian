@@ -1,0 +1,1 @@
+> the general type and amount of [[Risk]] that an organisation is willing to take in order to meet their strategic objectives without needing to take action to reduce the risk- variable depending on an organisation’s sector, culture, and objective

@@ -1,0 +1,1 @@
+hidden [[Vulnerabilities]] - discovered before security researchers and devs could find out it exits and therefore no time to patch - hackers race to exploit the system before it gets fixed
