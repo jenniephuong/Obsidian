@@ -1,3 +1,3 @@
->Confidentiality 
->Integrity
->Availability 
+>[[Confidentiality]] 
+>[[Integrity]]
+>[[Availability]] 

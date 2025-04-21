@@ -1,0 +1,1 @@
+>Confirming the identify of an entity – sender, device or information.

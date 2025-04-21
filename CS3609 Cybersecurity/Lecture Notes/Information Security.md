@@ -22,5 +22,5 @@ what are the principles / concepts of information security
 - other properties: 
 	- authentication (verify identity passwords, smart cards, biometric devices, OTPs), 
 	- authorization (determine access rights once identify is verified like server permissions and physical access control), 
-	- non-repudiation (means that users cannot deny the authenticity of their digital actions), 
+	- [[Non-repudiation]]
 	- audit (to capture information that can be troubleshooted later on) and accountability

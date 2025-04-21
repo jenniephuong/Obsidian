@@ -27,25 +27,27 @@ what are the different types of system architectures
 
 how actions can be done to secure systems - software engineering approaches that include cyber security elements
 - processes - change management + quantitative analysis
-- ***monitoring*** the architecture with software ([[Intrusion Detection Systems (IDS)]])
+- [[Monitor]] the architecture with software
 - Securing the code itself ([[Mobile and IoT]])
-- [[Code Analysis]]  
-- [[Software Testing]] 
-- [[System Testing]]
+- [[Code Analysis]]  - during dev
+- [[Software Testing]] - after dev
+- [[System Testing]] - after dev
 
 how do we know which areas of the system to focus on securing 
 - by conducting a Quantitative Analysis 
 - e.g. for each device, network, software, data, plot it against a probability impact graph to see which areas need to be focused on most (where probability = risk)
 - ![[Pasted image 20250415174811.png|500]]
 
+need to secure systems during development, not waiting only until the end, as new microservices added new security measures taken to ensure total security works - e.g. regression testing required when any changes made
+
 how can security be implemented for a designed / developing systems
 - risk review at every stage
 - design review - ensure the design of the system matches the requirements and technology
 - code review 
 - code management (control) - includes version control on github 
-- code analysis
+- [[Code Analysis]]
 - code testing
-- system testing (attacks)
+- [[Software Testing]] (attacks)
 
 how can security be implemented for working (existing and live) system
 - pattern or signature-based intrusion detection system (IDS) - involve people already using the system. when traffic coming into an organisation, patterns can be detected to detect suspicious behaviour

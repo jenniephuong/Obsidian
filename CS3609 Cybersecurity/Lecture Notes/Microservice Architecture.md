@@ -9,3 +9,7 @@ however, still susceptible to the following attacks
 - [[Social Engineering]]
 - [[Injection]]
 - [[Patches]]
+
+
+e.g. Amazon has a composite UI where each component of the interface is managed by a microservice, making it difficult to [[Monitor]]
+![[Pasted image 20250416094204.png|600]]

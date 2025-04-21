@@ -4,38 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97e01d9d6548b1be",
+        "id": "de4d74334438031c",
         "type": "tabs",
         "children": [
           {
-            "id": "367fd354d25ee8b8",
+            "id": "bbf6c694074d0b30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/Securing Systems.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Securing Systems"
-            }
-          },
-          {
-            "id": "27f49468917bef94",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 613.0295156450819,
-                  "y": 122.83437528583026,
-                  "zoom": -0.3557985424776437
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -71,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "access contro",
+                "query": "non-r",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/Securing Systems.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -133,7 +111,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Securing Systems"
+              "title": "Graph view"
             }
           }
         ]
@@ -226,44 +204,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "367fd354d25ee8b8",
+  "active": "bbf6c694074d0b30",
   "lastOpenFiles": [
-    "Lecture Notes/Microservice Architecture.md",
-    "Attachments/Pasted image 20250415185019.png",
-    "Lecture Notes/Securing Systems.md",
-    "Lecture Notes/Monolithic Architecture.md",
-    "Attachments/Pasted image 20250415184928.png",
-    "Lecture Notes/Patches.md",
-    "Lecture Notes/Mobile and IoT.md",
-    "Lecture Notes/Injection.md",
-    "Lecture Notes/Social Engineering.md",
-    "Lecture Notes/Specific Component Types.md",
-    "Lecture Notes/Intrusion Detection Systems (IDS).md",
-    "Untitled.canvas",
-    "Attachments/Pasted image 20250415183811.png",
-    "Attachments/Pasted image 20250415183408.png",
-    "Attachments/Pasted image 20250415183017.png",
-    "Attachments/Pasted image 20250415182242.png",
-    "Attachments/Pasted image 20250415181416.png",
-    "Lecture Notes/Security Review Cycle.md",
-    "Attachments/Pasted image 20250415174811.png",
-    "Core/Risk.md",
-    "Lecture Notes/Risk Management Framework.md",
-    "Lecture Notes/Risk Assessment.md",
-    "Lecture Notes/Risk Analysis.md",
-    "Lecture Notes/Quantitative Risk Methodology.md",
-    "Core/Controls.md",
-    "Lecture Notes/Code Analysis.md",
-    "Attachments/Pasted image 20250415172420.png",
-    "Lecture Notes/System Testing.md",
-    "Lecture Notes/Software Testing.md",
-    "Lecture Notes/Frameworks.md",
-    "Core/Threat Landscape.md",
-    "Lecture Notes/AAA Servers.md",
-    "Lecture Notes/Accountability.md",
-    "Lecture Notes/Zero-day vulnerabilities.md",
-    "Attachments/Pasted image 20250415164112.png",
+    "Lecture Notes/Crypto Controls in System Architectures.md",
+    "Lecture Notes/Blockchain.md",
+    "Attachments/Pasted image 20250416151758.png",
+    "Attachments/Pasted image 20250416151047.png",
+    "Attachments/Pasted image 20250416145532.png",
+    "Attachments/Pasted image 20250416145420.png",
+    "Attachments/Pasted image 20250416144401.png",
+    "Attachments/Pasted image 20250416143858.png",
+    "Lecture Notes/Cyptography.md",
+    "Lecture Notes/PKI.md",
+    "Lecture Notes/Cryptanalysis.md",
+    "Lecture Notes/Cipher.md",
+    "Lecture Notes/Authentication.md",
+    "Lecture Notes/Encryption in Coding.md",
+    "Attachments/Pasted image 20250416125920.png",
+    "Attachments/Pasted image 20250416125539.png",
+    "Lecture Notes/Cryptography Standards.md",
+    "Lecture Notes/Hashing.md",
+    "Attachments/Pasted image 20250416125136.png",
+    "Attachments/Pasted image 20250416125037.png",
+    "Lecture Notes/Trading Architectures.md",
+    "Lecture Notes/Message Based Architecture.md",
+    "Lecture Notes/Serverless Computing.md",
+    "Lecture Notes/Non-repudiation.md",
     "Lecture Notes/Information Security.md",
+    "Lecture Notes/CIA Triad.md",
+    "Lecture Notes/Availability.md",
+    "Lecture Notes/Integrity.md",
+    "Lecture Notes/Confidentiality.md",
+    "Untitled.canvas",
+    "Lecture Notes/System Testing.md",
+    "Lecture Notes/Securing Systems.md",
+    "Lecture Notes/Software Testing.md",
+    "Lecture Notes/Code Analysis.md",
+    "Lecture Notes/Security Review Cycle.md",
+    "Lecture Notes/Monitor.md",
     "Core/Risk Elements.canvas",
     "Attachments",
     "Core",

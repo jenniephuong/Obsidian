@@ -1,0 +1,1 @@
+ >Preventing someone from denying a previous statement or action.
