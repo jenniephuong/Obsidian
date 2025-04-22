@@ -1,5 +1,8 @@
 >a network security tool that monitors ***network traffic*** and ***devices*** for known malicious activity, suspicious activity or security policy violations.
 
+what is intrusion detection
+- a device or piece of software that monitors networks for malicious activity, policy violations or unwanted ‘intrusions’.
+
 why are IDS needed
 - criminals entering a system had a certain signature, sign of something suspicious
 - systems on a network are vulnerable to attack as data is sent across the network 
@@ -20,7 +23,10 @@ what's the difference between IDS and Firewall
 - IDS actively monitor traffic and use pattern recognition to identify suspicious activities by comparing the activities against a database of known threats 
 
 what detection method do IDS use for analysis 
-- pattern/signature-based IDS - rule based, compares current traffic with signatures. signatures need to be updated as attackers will change their attacks to go undetected
-- anomaly-based IDS - profile based, compares current activity with stored profiles of normal activity so anything not normal is a candidate for analysis 
-
+- pattern/[[Signature-based]] IDS 
+- [[Anomaly-based ]]IDS
 - rules for [[Internet Control Message Protocol (ICMP)]] packets can be created 
+
+
+this is a markov based attack detection method, but I'm not gonna focus too much on it since it's a bonus paper than the lecturer recommended
+![[Pasted image 20250422104725.png|600]]

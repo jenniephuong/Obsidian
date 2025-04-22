@@ -14,6 +14,7 @@ what types of issues can HIDs identify
 - monitoring process disk usage for suspicious usage 
 - can catch malicious activity e.g. ransomware, before it spreads to other devices
 - log file or configuration manipulation 
+- internal program activities, memory usage, delay in reporting to a centralised system
 
 
 e.g. OSSEC is the most widely used HIDs

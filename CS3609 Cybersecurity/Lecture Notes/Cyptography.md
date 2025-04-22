@@ -49,7 +49,6 @@ what are the applications of cryptography methods
 
 
 
-
 other stuff need to know about 
 
 Private (symmetric) key ciphers 

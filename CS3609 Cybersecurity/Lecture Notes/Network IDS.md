@@ -1,10 +1,13 @@
->monitor inbound and outbound traffic to devices across the network
+>monitor inbound and outbound traffic to devices across the network (cross-network communication)
 
 where can they be placed 
 -  can have both an external (outside firewall) and internal (inside firewall) NIDS connected to a switch or a hub
 	- external - shows attacks that the firewall faces 
 	- internal - identify attacks that bypass the firewall, catch insider threats or hijacked user accounts
 - usually placed 'out-of-bounds' so that traffic doesn't directly pass through where NIDs can disrupt legitimate traffic, but it analyses copies of network packets to flag traffic
+
+what are the pros 
+- good for monitoring a hybrid cloud environment for distributed organisations
 
 what can NIDs do
 - can change rules to filter traffic and stop the attack

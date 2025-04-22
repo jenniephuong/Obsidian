@@ -3,12 +3,16 @@
 		{"id":"557c0126bfb6d808","type":"text","text":"##### Threats and Attacks \n- vulnerabilities, threats, attacks\n- cyber attack examples\n- using Mitre Attack framework ","x":-464,"y":-70,"width":324,"height":170},
 		{"id":"18b701c05b46d2dc","type":"text","text":"##### Information and Risk\n- importance of information security\n- CIA triad for information security \n- threat landscape - the key elements of risk \n- what is risk management \n- what are the steps in the ISO risk management framework (inc. quant- quali- risk methodology)","x":-500,"y":200,"width":452,"height":260},
 		{"id":"89424de90a3061fc","type":"text","text":"##### Cybersecurity Architecture and Operations \n\n- what access controls are\n- types of access controls (physical / logical)\n- operational architecture for organisations to define access controls \n- how access controls are enforced\n- ","x":100,"y":-20,"width":404,"height":320},
-		{"id":"9d2edbac0b57bf2d","type":"text","text":"##### Secure Systems\n\n- different system architectures and their complexities\n- risks like social engineering, injections, patches \n- security review cycle and the need for ongoing securit\n- securing systems through IDS\n- securing systems through software engineering processes with cyber security elements","x":720,"y":-390,"width":500,"height":320},
-		{"id":"2c4d7ec21d962be6","type":"text","text":"### Lecture Content","x":42,"y":-320,"width":260,"height":50}
+		{"id":"2c4d7ec21d962be6","type":"text","text":"### Lecture Content","x":42,"y":-320,"width":260,"height":50},
+		{"id":"cc0c6fa76f63c8de","type":"text","text":"##### Cybersecurity Analytics\n\n- different parts of cyberspace that we can gather data from\n- types of data that can be analysed\n- reasons why analytics are used\n- considerations for data analysis\n- how analytics can be used for intrusion detection \n","x":720,"y":400,"width":500,"height":265},
+		{"id":"f2ba6da0b8d31036","type":"text","text":"#####  Cryptography\n\n- ciphers and cryptanalysis attacks\n- how to analyse organisations to place crypto-controls\n- how to apply cryptography methods in the coding process\n- different architectures to apply cryptography to \n","x":720,"y":25,"width":500,"height":230},
+		{"id":"9d2edbac0b57bf2d","type":"text","text":"##### Secure Systems\n\n- different system architectures and their complexities\n- risks like social engineering, injections, patches \n- security review cycle and the need for ongoing securit\n- securing systems through IDS\n- securing systems through software engineering processes with cyber security elements","x":720,"y":-430,"width":500,"height":320}
 	],
 	"edges":[
 		{"id":"39a0f7543d5c544c","fromNode":"557c0126bfb6d808","fromSide":"right","toNode":"89424de90a3061fc","toSide":"left"},
 		{"id":"f740a8029fdacbef","fromNode":"18b701c05b46d2dc","fromSide":"right","toNode":"89424de90a3061fc","toSide":"left"},
-		{"id":"e2b0f2443480b05b","fromNode":"89424de90a3061fc","fromSide":"right","toNode":"9d2edbac0b57bf2d","toSide":"left"}
+		{"id":"e2b0f2443480b05b","fromNode":"89424de90a3061fc","fromSide":"right","toNode":"9d2edbac0b57bf2d","toSide":"left"},
+		{"id":"9bb12982c99b78a2","fromNode":"89424de90a3061fc","fromSide":"right","toNode":"f2ba6da0b8d31036","toSide":"left"},
+		{"id":"cc2682bd575e8ee4","fromNode":"89424de90a3061fc","fromSide":"right","toNode":"cc0c6fa76f63c8de","toSide":"left"}
 	]
 }
