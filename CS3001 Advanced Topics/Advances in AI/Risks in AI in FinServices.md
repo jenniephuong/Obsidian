@@ -1,7 +1,7 @@
 - data privacy and security
 - bias and fairness issues
 - accuracy and reliability concerns
-- ethical and legal risks 0 including costs 
+- ethical and legal risks - including costs 
 - operational and reputational risks - ai errors in customer interactions 
 - copyright issues - 
 
@@ -22,7 +22,3 @@ how do we manage these risks
 
 existing regulators need to be followed (see slides)
 e.g. FCA, GDPR, EU AI Act, NIST
-
-u eepy
-soup eep = super eepy
-eep soup

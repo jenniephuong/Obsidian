@@ -33,7 +33,7 @@
 		{"id":"53495550e1b1c8ac","type":"file","file":"Advances in AI/Distillation.md","x":-1460,"y":2248,"width":400,"height":400},
 		{"id":"312f84a901cbb480","type":"file","file":"Advances in AI/Quantization.md","x":-995,"y":2648,"width":400,"height":400},
 		{"id":"c8f90cf5edb2870e","type":"file","file":"Advances in AI/Embeddings.md","x":-995,"y":1848,"width":400,"height":400},
-		{"id":"fb69d1c33cbab846","type":"file","file":"Advances in AI/Applying a RAG architecure.md","x":1741,"y":-366,"width":399,"height":467},
+		{"id":"fb69d1c33cbab846","type":"file","file":"Advances in AI/Applying a RAG Architecture.md","x":1741,"y":-366,"width":399,"height":467},
 		{"id":"285361a6c9aa8629","type":"file","file":"Advances in AI/Designing an LLM (Chatbot).md","x":1300,"y":-299,"width":400,"height":400}
 	],
 	"edges":[

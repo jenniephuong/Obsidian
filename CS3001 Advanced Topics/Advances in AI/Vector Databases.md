@@ -9,6 +9,7 @@ this content store can be open (internet) or closed (classified documents) depen
 
 how to query a vector database 
 - work by using measures of similarity to find the closest matches - APP, Approximate Nearest Neighbour 
+- semantic search - 
 
 examples 
 - Chroma 
