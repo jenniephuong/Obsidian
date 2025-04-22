@@ -8,6 +8,7 @@ where can they be placed
 
 what are the pros 
 - good for monitoring a hybrid cloud environment for distributed organisations
+- can use [[Anomaly-based]] and [[Signature-based]]
 
 what can NIDs do
 - can change rules to filter traffic and stop the attack

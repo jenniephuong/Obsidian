@@ -5,6 +5,7 @@ how do HIDs work
 - first install on a specific endpoint e.g. server computers and run as software process
 - intercept and examine system calls or specific processes to identify dis-allowed behaviour or patterns - by taking period snapshots of critical OS files and comparing them over time
 - can perform pre-defined actions e.g., stopping or reporting the infraction
+- mainly uses [[Anomaly-based]]
 
 what types of issues can HIDs identify 
 - Cryptojacking - when a computer is controlled by a cryptocurrency miner and used to generate cryptocurrency

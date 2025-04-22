@@ -41,3 +41,6 @@ who are the [[Threat Agents]] in structured threats
 
 who are the [[Threat Agents]] in unstructured threats
 - inexperienced individuals who make use of existing tools
+
+threats can be identified and understood through [[Threat Modelling]]
+there is complexity between threats and risk due to the [[Threat Landscape]]

@@ -6,3 +6,11 @@ With the MITRE ATT&CK framework, cyber security analysts can:
 - Readily identify Mitigations for Techniques.
 
 ![[Pasted image 20241106133015.png]]
+
+can also be used by red and blue teams to simulate attacks
+
+how are threats modelled with MITRE ATTACK
+- reviewing all forms of attack from initial access to impact, covering various platforms, responses, techniques and mitigations, moving left to right to map attack vectors
+
+what are the pros of MITRE
+- wide range and systematic approach to threats with platforms and counter measures compared to other modelling techniques like [[STRIDE Model]]

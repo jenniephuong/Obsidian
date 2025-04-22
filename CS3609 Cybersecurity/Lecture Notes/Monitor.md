@@ -6,5 +6,14 @@ how to monitor
 
 conduct real time monitoring with [[Intrusion Detection Systems (IDS)]]
 
+what other implementations can be used for monitoring
+- [[SIEM]]
+- [[XDR]]
+- [[SOAR]]
+
+deployment plan for a monitoring approach - week 7 lab
+![[Pasted image 20250422151418.png]]
+
+
 e.g. Zabbix
 ![[Pasted image 20250416094004.png]]
