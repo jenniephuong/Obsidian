@@ -19,3 +19,5 @@ Step 6: Choose a vector database
 Step 7: Create a prompt embedding to find context -basically a way to combine the input such that **==prompt input data = instruction (og prompt) + context (vector db)==**
 
 Step 7: Construct prompt input
+
+#flash 

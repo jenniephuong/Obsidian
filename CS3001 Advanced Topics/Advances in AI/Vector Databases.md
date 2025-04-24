@@ -29,3 +29,6 @@ how to create a vector database
 pros of vector databases 
 - scalability and adaptability - as data grows it can scale across multiple nodes, the system can be tuned to include any new data as needed 
 - multi-user support and data privacy - data isolation 
+- flexible for development if they offer a comprehensive set of APIs and SKDs
+
+#flash 

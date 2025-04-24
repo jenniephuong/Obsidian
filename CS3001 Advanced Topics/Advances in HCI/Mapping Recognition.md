@@ -23,7 +23,9 @@ how is mapping recognition applied to a hand
     - ![[Pasted image 20250310181507.png]]
 - the hand is not virtual but there spheres on them are, the sphere can also be visualised
 
-Detecting collisions and interactions between the user's hand and the virtual objects occurs at this stage 
-- [[Collision Detection]]
+%% Detecting collisions and interactions between the user's hand and the virtual objects occurs at this stage 
+- [[Collision Detection]] %%
 
 Currently within HoloLens the collider on the user's fingertip is used to Help with interacting with the virtual element.
+
+#flash 

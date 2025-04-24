@@ -28,5 +28,5 @@ what are the types of prompt engineering
 ##### Cons
 - less effective in proving coherent and accurate results compared to more advanced techniques like RAG or fine-tuning [[Sub Paper - Comparing RAG, Fine-Tuning, and Prompt Engineering for Chatbot development]]
 
-
+#flash 
 

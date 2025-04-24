@@ -33,5 +33,8 @@ prompt chaining is used to simplify complex prompts
 - structured prompt chains used for customer service chatbots, where prompts are linked together so the system can build upon previous responses and maintain context 
 - any sort of multi step tasks like programming development, personalised recommendations, content creation from outline to editing
 
-but how can non-AI experts build prompt chains - perhaps through a visual interface?
+ but how can non-AI experts build prompt chains - perhaps through a visual interface?
 [[Key Paper - Prompt Chaining Visual Programming]]
+ 
+
+#flash 

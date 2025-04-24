@@ -27,7 +27,7 @@ Domain specificity - can adapt to domain as new sources are added
 Resource use - user driven resource cost, datasets and pipelines to connect the LLM to the dataset need to be constructed 
 
 Solves common issues with regular [[Large Language Models|LLM]] use
-- regular LLMs have no source to derive their responses from, so information can be inaccurate - LLMs are directed to focus on primary source data, so less likely to leak data or hallucinate
+- regular LLMs have no source to derive their responses from, so information can be inaccurate - RAGs are directed to focus on primary source data, so less likely to leak data or hallucinate
 - information given can be out of date, instead of having to retrain the entire model for new information, augment the data store with updated information. much less computational effort required. 
 	- any info can be part of the corpus, documents, PDFs, anything relevant to the business operations
 - hallucination from not knowing the answer and giving something random - encourages the LLM to admit when it doesn't know things based on what is or is not available in the vector database (but this can be a negative effect if the initial user prompt doesn't get an answer despite being answerable)
@@ -47,3 +47,5 @@ Can be built using langchain
 - requires extensive data architecture construction and maintenance to build the pipelines between the organisation's data and the LLM 
 - need to have precise prompt engineering to locate the right data and ensure the LLM can handle it properly 
 - not as robust to unexpected queries 
+
+#flash 

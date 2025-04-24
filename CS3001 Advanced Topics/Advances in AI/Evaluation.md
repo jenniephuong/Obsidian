@@ -5,6 +5,7 @@ how can we evaluate QA systems?
 - Repeat the same prompt multiple times to access clarity, readability, repeatability - and identify any bias or hallucinations
 - AI judging acting as experts e.g. ChatBot Arena, LLMCompare
 
+![[Pasted image 20250424102140.png]]
 what metrics are there 
 - [[ROUGE Metric]]
 - BLEU Metric
@@ -20,3 +21,5 @@ why can't metrics alone be used (e.g. human evaluation)
 - identify out-of-vocabulary words 
 
 areas where the model underperforms signals that more development is needed
+
+#flash 

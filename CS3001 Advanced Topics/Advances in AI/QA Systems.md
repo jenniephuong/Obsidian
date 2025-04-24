@@ -17,3 +17,5 @@ what are the difficulties in creating QA systems
 - questions can be phrased in various ways so need advanced NLP understanding 
 - need to retrieve relevant information from vast amounts of data 
 - answers need to be verified for reliability 
+
+#flash 

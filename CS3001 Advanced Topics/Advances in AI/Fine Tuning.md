@@ -7,7 +7,6 @@ or parameter-efficient fine tuned
 - updates only the most relevant parameters
 - allows for the fine-tuning to occur on lower spec hardware
 
-goal is to improve performance in specific use cases 
 
 ![[Pasted image 20250224165902.png]]
 
@@ -17,6 +16,7 @@ Pipeline steps
 2. fine-tuning
 3. quantizing 
 
+goal is to improve performance in specific use cases 
 Aim - adapts pre-trained LLM models with new content to suit a particular task or application domain
 Knowledge - limited to knowledge in base model
 Up-to-date - static - expensive to extend
@@ -40,6 +40,8 @@ Pre-training uses large datasets while fine tuning uses smaller datasets
 
 ##### Cons 
 - information cut-off (outdated)
-- data preparation and training processes are so compute-intensive and time-consuming -> powerful GPUs running in parallel and large memory to store the fine-tuned LLM
+- upfront resource cost data preparation and training processes are so compute-intensive and time-consuming -> powerful GPUs running in parallel and large memory to store the fine-tuned LLM
 - poor generalisation, can't be used in multiple application, only for the specific application it was fine tuned for
 - poor datasets will impact the effectiveness of the final model
+
+#flash 

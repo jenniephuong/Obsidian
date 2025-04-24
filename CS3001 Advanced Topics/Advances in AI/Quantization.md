@@ -28,3 +28,5 @@ pros of quantization
 
 disadvantages 
 - loss of accuracy (often negligible though)
+
+#flash 

@@ -23,3 +23,5 @@ trying to translate a 3D space into a 2D space that still looks like a 3D space
 - the camera has its own coordinates in the 3D space
 - based on these coordinates, the transformation of the marker is calculated to project the virtual object onto the 2D screen coordinates, but this can offset from the ideal screen coordinates (black vs. red dot) from what you actually see on the screen
 - image distortion function is applied to fix this 
+
+#flash 

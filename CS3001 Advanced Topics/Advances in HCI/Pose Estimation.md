@@ -15,3 +15,5 @@ what is an augmentation jump
 - a significant change in pose between frames that causes the virtual element's augmentation to jump - jarring, disorienting experience
 
 Augmentation jumps can be happened due to a significant change in the optical sensor’s pose between frames causing a larger error. This error leads to augmenting the virtual object incorrectly in every frame, which looks like the object jumps, which can lead to cybersickness and discomfort.
+
+#flash 

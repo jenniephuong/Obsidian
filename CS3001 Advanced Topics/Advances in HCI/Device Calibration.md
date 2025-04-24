@@ -9,7 +9,7 @@ what are the base specs. for a mixed reality headset
 - aspect ratio 3:2
 	- Having four covers a wide coverage as the user needs to make sure they are able to see the surrounding environment as they can to avoid collision and as a driving simulator, being aware of the surrounding.
 - resolution 2k
-	- fluence the level of immersion of the driver and their ability to acquire awareness of the situation during the experience, pixelated breaks immersion
+	- influence the level of immersion of the driver and their ability to acquire awareness of the situation during the experience, pixelated breaks immersion
 - display rate 120-240Hz
 	- a refresh rate of less than 120 Hz would lead the driver to have motion sickness and discomfort, show high latency 
 	- risk of augmentation jumps 
@@ -36,3 +36,5 @@ what are the extrinsic properties
 - these properties are not always known
 
 without proper device calibration, [[Registration Error]]s can occur 
+
+#flash 

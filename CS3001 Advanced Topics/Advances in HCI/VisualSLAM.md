@@ -28,3 +28,5 @@ what challenges are there for visualSLAM
 - outdoor tracking is not as good, illumination (lighting) inconsistencies
 - cameras not always as precise as using lasers for LiDAR
 - need to be done in a feature rich area (lots of edges and corners) and not in open or sparse areas otherwise less accurate mapping is created
+
+#flash 

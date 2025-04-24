@@ -13,68 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Advances in AI/Transformers.md",
+                "file": "Advances in AI/May Paper 2025/Question C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformers"
-            }
-          },
-          {
-            "id": "4d7a3496db59c0ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advances in AI/Evaluation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evaluation"
-            }
-          },
-          {
-            "id": "ac40f57a3128cef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advances in AI/Prompt Chaining.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prompt Chaining"
-            }
-          },
-          {
-            "id": "e782b98267f7f05f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advances in AI/Risks in AI in FinServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Risks in AI in FinServices"
-            }
-          },
-          {
-            "id": "3f5c130eccc69571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Advances in AI/Risk Matrix of RAG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Risk Matrix of RAG"
+              "title": "Question C"
             }
           }
         ]
@@ -109,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "haptic",
+                "query": "path:\"Advances in AI\" tag:#flash  ",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -217,44 +161,44 @@
   },
   "active": "d970f15d20797e84",
   "lastOpenFiles": [
+    "Advances in AI/May Paper 2025/0. Vignette.md",
+    "Advances in AI/May Paper 2025/Question A.md",
+    "Advances in AI/May Paper 2025/Question C.md",
+    "Advances in AI/May Paper 2025/Question D.md",
+    "Advances in AI/May Paper 2025/Question E.md",
+    "Advances in AI/Applying a RAG Architecture.md",
+    "Advances in AI/May Paper 2025/Question B.md",
+    "Advances in AI/Designing an LLM (Chatbot).md",
+    "Advances in AI/Vector Databases.md",
+    "Advances in AI/Transformers.md",
+    "Advances in AI/Shot-based Prompting.md",
+    "Advances in AI/ROUGE Metric.md",
+    "Advances in AI/Risks in AI in FinServices.md",
+    "Advances in AI/Risk Matrix of RAG.md",
+    "Advances in AI/Retrieval-Augmented Generation (RAG).md",
+    "Advances in AI/Quantization.md",
+    "Advances in AI/QA Systems.md",
+    "Advances in AI/Prompt Structuring.md",
+    "Advances in AI/Prompt Engineering.md",
+    "Advances in AI/Prompt Chaining.md",
+    "Advances in AI/Large Language Models.md",
+    "Advances in AI/Language Models.md",
+    "Advances in AI/Generative AI in Finances.md",
+    "Advances in AI/Fine Tuning.md",
+    "Advances in AI/Evaluation.md",
+    "Advances in AI/Embeddings.md",
+    "Advances in AI/Advances in AI.canvas",
+    "Assets/Pasted image 20250424103045.png",
+    "Assets/Pasted image 20250424103021.png",
+    "Assets/Pasted image 20250424102930.png",
+    "Assets/Pasted image 20250424102140.png",
+    "Assets/Pasted image 20250414151459.png",
+    "Advances in HCI/Advances in HCI.canvas",
     "Assets/Pasted image 20250421190727.png",
     "Assets/Pasted image 20250421185525.png",
     "Assets/Pasted image 20250421185342.png",
     "Assets/Pasted image 20250421184947.png",
-    "Advances in AI/Prompt Chaining.md",
-    "Advances in AI/Sub Paper - Prompt Chaining or One Big Prompt.md",
-    "Advances in AI/Risk Matrix of RAG.md",
-    "Advances in AI/Evaluation.md",
-    "Advances in AI/Transformers.md",
-    "Advances in AI/Paper Review/Key Paper - Prompt Chaining Visual Programming.md",
-    "Advances in AI/Risks in AI in FinServices.md",
-    "Advances in AI/Vector Databases.md",
-    "Advances in AI/Quantization.md",
     "Assets/Pasted image 20250421181319.png",
-    "Advances in AI/Shot-based Prompting.md",
-    "Advances in AI/ROUGE Metric.md",
-    "Advances in AI/Paper Review/Sub Paper - Threat Modelling using LLMs for Banking Systems.md",
-    "Advances in AI/Paper Review/Sub Paper - LLM Prompt Chaining for Long Legal Document Classification.md",
-    "Advances in AI/May Paper 2025/Question E.md",
-    "Assets/Pasted image 20250421173652.png",
-    "Advances in AI/Retrieval-Augmented Generation (RAG).md",
-    "Advances in AI/Paper Review/Sub Paper - Comparing RAG, Fine-Tuning, and Prompt Engineering for Chatbot development.md",
-    "Assets/Pasted image 20250421170416.png",
-    "Advances in AI/Distillation.md",
-    "Advances in AI/May Paper 2025/Question D.md",
-    "Advances in AI/May Paper 2025/Question C.md",
-    "Advances in AI/Applying a RAG Architecture.md",
-    "Advances in AI/May Paper 2025/Question B.md",
-    "Advances in AI/May Paper 2025/Question A.md",
-    "Advances in AI/May Paper 2025/0. Vignette.md",
-    "Advances in AI/Embeddings.md",
-    "Assets/Pasted image 20250421150434.png",
-    "Advances in AI/QA Systems.md",
-    "Assets/Pasted image 20250421143120.png",
-    "Advances in HCI/Advances in HCI.canvas",
-    "Assets/Pasted image 20250421141737.png",
-    "Assets/Pasted image 20250421113224.png",
-    "Advances in AI/Advances in AI.canvas",
     "Advances in AI/May Paper 2025",
     "Advances in HCI/May Paper 2025",
     "Advances in HCI/Paper Review",

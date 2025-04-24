@@ -16,3 +16,4 @@ what is a bounding box
 - handles often added to the orders and edges of the bounding box so that the object can be scaled and rotated 
 - makes it more intuitive to interact with ![[Pasted image 20250310184153.png]]
 
+#flash 

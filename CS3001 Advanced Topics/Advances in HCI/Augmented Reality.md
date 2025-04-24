@@ -26,3 +26,5 @@ what hardware is required for AR
 Different implementation types:
 - [[App based AR]]
 - [[Web based AR]]
+
+#flash 

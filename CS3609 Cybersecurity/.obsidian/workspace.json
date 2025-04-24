@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/Network IDS.md",
-                "mode": "source",
+                "file": "Lecture Notes/Authentication.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network IDS"
+              "title": "Authentication"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/Network IDS.md",
+                "file": "Lecture Notes/Authentication.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Network IDS"
+              "title": "Graph of Authentication"
             }
           }
         ]
@@ -210,43 +210,43 @@
   },
   "active": "c9f39a4f79bd5822",
   "lastOpenFiles": [
-    "Lecture Notes/Host-based IDS.md",
-    "Lecture Notes/Threat Modelling.md",
-    "Lecture Notes/Persona-non-Grata (PnG).md",
-    "Lecture Notes/OpenID Connect.md",
-    "Lecture Notes/Frameworks.md",
-    "Lecture Notes/Risk Analysis.md",
-    "Untitled.canvas",
-    "Lecture Notes/Value Chain.md",
-    "Lecture Notes/Biba Model.md",
-    "Lecture Notes/Management.md",
-    "Lecture Notes/Change Management.md",
-    "Attachments/Pasted image 20250422172221.png",
-    "Lecture Notes/Placing Cybersecurity in an Organisational Context.md",
-    "Lecture Notes/Security Review Cycle.md",
-    "Lecture Notes/Securing Systems.md",
-    "Lecture Notes/Compliance.md",
-    "Lecture Notes/Business Continuity Planning (BCP).md",
-    "Lecture Notes/Policies.md",
-    "Lecture Notes/Business Impact Analysis (BIA).md",
-    "Lecture Notes/Prioritised Risk Register.md",
-    "Attachments/Pasted image 20250422170001.png",
+    "Lecture Notes/Attack.md",
+    "Lecture Notes/AAA Servers.md",
+    "Lecture Notes/Accountability.md",
+    "Core/Threat Agents.md",
+    "Lecture Notes/MISP.md",
+    "Lecture Notes/Network IDS.md",
     "Lecture Notes/SWOT Analysis.md",
+    "Lecture Notes/Value Chain.md",
+    "Lecture Notes/XACML.md",
+    "Lecture Notes/Zero-day vulnerabilities.md",
+    "Core/Vulnerabilities.md",
+    "Core/Threats.md",
+    "Core/Threat Landscape.md",
+    "Core/Stakeholders.md",
+    "Core/Risk.md",
+    "Core/Controls.md",
+    "Core/Assets.md",
+    "Lecture Notes/CIA Triad.md",
+    "Lecture Notes/Functional Policy.md",
+    "Lecture Notes/Management.md",
+    "Lecture Notes/Persona-non-Grata (PnG).md",
+    "Lecture Notes/Non-repudiation.md",
+    "Lecture Notes/Risk Acceptance.md",
+    "Lecture Notes/Qualitative Risk Methodology.md",
+    "Lecture Notes/STIX.md",
+    "Lecture Notes/STRIDE Model.md",
+    "Untitled.canvas",
+    "Attachments/Pasted image 20250422172221.png",
+    "Attachments/Pasted image 20250422170001.png",
     "Attachments/Pasted image 20250422165801.png",
-    "Lecture Notes/Value System - Supply Chain Interaction.md",
     "Attachments/Pasted image 20250422165423.png",
     "Attachments/Pasted image 20250422165017.png",
     "Attachments/Pasted image 20250422164453.png",
     "Attachments/Pasted image 20250422162606.png",
     "Attachments/Pasted image 20250422162016.png",
-    "Lecture Notes/Cybersecurity Management Framework.md",
     "Attachments/Pasted image 20250422161130.png",
-    "Lecture Notes/Cyptography.md",
-    "Lecture Notes/Cybersecurity Analytics.md",
-    "Lecture Notes/Cybersecurity.md",
-    "Lecture Notes/Monitor.md",
     "Attachments/Pasted image 20250422151418.png",
-    "Core/Threats.md",
     "Core/Risk Elements.canvas",
     "Attachments",
     "Core",

@@ -14,3 +14,5 @@
 - High development and maintenance costs for businesses
 - Disrupts the user journey due to app download
 - Difficulty integrating it into other platforms
+
+#flash 

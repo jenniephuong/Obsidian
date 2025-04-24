@@ -17,4 +17,12 @@ precision = quality of n-grams in the model output
 - num of overlapping n-grams / number of n-grams in output text
 
 ROUGE-score = (2 * (precision * recall)) / (recall + precision)
-over 0/5 is considered good 
+over 0.5 is considered good 
+
+![[Pasted image 20250424102930.png]]
+
+![[Pasted image 20250424103021.png]]
+
+![[Pasted image 20250424103045.png]]
+
+#flash 

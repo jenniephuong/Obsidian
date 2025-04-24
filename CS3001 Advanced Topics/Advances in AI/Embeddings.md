@@ -8,3 +8,5 @@ different embedding libraries already exist that existing models use e.g. **==Gl
 
 aka. each word represented over a set of numbers e.g. a 3d embedding will have 3 different numbers to make up a piece of text - in real applications there are many more axis than 3
 ![[Pasted image 20250224162201.png]]
+
+#flash 

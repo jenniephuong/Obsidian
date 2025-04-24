@@ -25,3 +25,4 @@ despite being popular, LLMs have many limitations
 
 - ==stochastic== response - randomly determined to some extent even when re-using the same prompt - deal with this by tweaking the temperature parameter, but this alone is not enough to prevent unwanted variability in responses
 
+#flash 

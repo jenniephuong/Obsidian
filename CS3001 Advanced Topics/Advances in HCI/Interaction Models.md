@@ -9,3 +9,5 @@ what are the types of interaction models
 physical controllers DO NOT count as interaction models, as they are made for VR and does not promote an individual interacting with an extension of reality. 
 
 when interacting with the virtual content, [[Collision Detection]] needs to be done.
+
+#flash 

@@ -6,3 +6,4 @@ what is SLAM
 
 _NOTE: not only detecting the map of the surroundings, but actively locating where the ‘camera’ or the ‘own’ position is (since the camera is attached to the user though the headset or device)_
 
+#flash 

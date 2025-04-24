@@ -15,3 +15,5 @@ what does spatial mapping allow us to do
 
 what are the limitations of spatial mapping
 - work well indoor, but not outdoors
+
+#flash 

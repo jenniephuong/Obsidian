@@ -6,7 +6,7 @@ how does distillation work
 - given some unlabelled data, the teacher LLM is asked to label it. this synthetically labelled data is given to train the student model
 
 pros: 
-- generates predictions much faster, good for real-time applications or resource-contrained devices 
+- generates predictions much faster, good for real-time applications or resource-constrained devices 
 - reduced parameters = requires fewer computational and environmental resources (energy consumption), easier to store and mange
 - less expensive to host an LLM with fewer parameters via API
 
@@ -29,3 +29,5 @@ what can be done to mitigate knowledge loss
 - adjust hyperparameters like temperature and learning rate 
 	- temperate - smoothness of probability distribution and creativity of responses 
 	- learning rate - balance speed and stability of training process so the model can converge without under or over fitting
+
+#flash 

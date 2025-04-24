@@ -13,3 +13,5 @@ No downloads required, accessible on any device via the internet
 - Not as powerful as app-based AR
 - Reliant on internet connections
 - Perform better on newer devices
+
+#flash 

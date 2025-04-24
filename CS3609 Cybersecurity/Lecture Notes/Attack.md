@@ -38,3 +38,5 @@ What are key loggers
 
 What is ransomware
 - Data on compromised computer encrypted (WannaCry taking advantage of Eternal Blue vulnerability)
+
+#flash
