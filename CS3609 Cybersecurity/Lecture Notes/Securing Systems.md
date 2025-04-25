@@ -27,7 +27,7 @@ what are the different types of system architectures
 
 how actions can be done to secure systems - software engineering approaches that include cyber security elements
 - processes - change management + quantitative analysis
-- [[Monitor]] the architecture with software
+- [[Monitoring]] the architecture with software
 - Securing the code itself ([[Mobile and IoT]])
 - [[Code Analysis]]  - during dev
 - [[Software Testing]] - after dev

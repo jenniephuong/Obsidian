@@ -11,5 +11,5 @@ however, still susceptible to the following attacks
 - [[Patches]]
 
 
-e.g. Amazon has a composite UI where each component of the interface is managed by a microservice, making it difficult to [[Monitor]]
+e.g. Amazon has a composite UI where each component of the interface is managed by a microservice, making it difficult to [[Monitoring]]
 ![[Pasted image 20250416094204.png|600]]
